@@ -1,4 +1,3 @@
-Ruby-Data-Parse
-===============
+# Ruby-Data-Parse
 
-Parsing Large Datasets with Ruby
+Further practice working with Ruby's CSV module, in particular focusing on advanced features allowing for efficient parsing of large datasets.
